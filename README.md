@@ -3,11 +3,11 @@
 - A modern and responsive Food Delivery web application built with React,TypeScript and API Integration. 
 - The application allows users to browse food categories, view menu items, search for meals, and enjoy a clean, user-friendly interface.
 
+ 📖 Overview
 
+- This project demonstrates modern frontend development practices by integrating external APIs,creating reusable React      components and building a responsive user experience suitable for desktop,tablet and mobile devices.
 
-  📖 Overview
-
-This project demonstrates modern frontend development practices by integrating external APIs, creating reusable React components, and building a responsive user experience suitable for desktop, tablet, and mobile devices.
+- ScreanShoot
 
 
   ✨ Features
